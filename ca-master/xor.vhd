@@ -2,6 +2,8 @@
 library ieee;
 use ieee.std_logic_1164.all;
 
+-- kazkokia programa, kurioje yra kazkas su loginiais elementais
+
 -- the entity
 entity xor is
 port (
